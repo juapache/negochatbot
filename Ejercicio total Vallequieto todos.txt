@@ -1,374 +1,348 @@
 Ejercicio 1: Conflicto Vecinal por el Agua
+T√≠tulo "Las aguas turbias de Vallequieto"
+Roles: 1: Persona desplazada, 2: Activista Ambiental, 3: Empresario Tur√≠stico
+Ubicaci√≥n: Barrio La Esperanza, Vallequieto.
 
-Objetivo: Analizar las causas raÌz del conflicto y diseÒar una estrategia de incidencia que integre justicia ambiental y derechos humanos.
+Contexto: El barrio, habitado por familias desplazadas por la violencia, sufre escasez de agua potable. El r√≠o que abastece la zona est√° contaminado por mercurio de la miner√≠a ilegal de Minerales Vallequieto. Mientras tanto, el empresario tur√≠stico Ricardo Lozano desv√≠a agua limpia subterr√°nea a su lujoso hotel Para√≠so Dorado, agravando la crisis.
 
-UbicaciÛn:
-Barrio La Esperanza, Vallequieto.
+Detonante: Hoy, la comunidad ha bloqueado la entrada al hotel exigiendo acceso al agua. La tensi√≥n est√° al l√≠mite, y medios locales han llegado a cubrir la protesta.
 
+Rol 1: Persona Desplazada: Mar√≠a S√°nchez (Madre desplazada) / Mario S√°nchez (Padre desplazado)
 Contexto:
-El barrio, habitado por familias desplazadas por la violencia, sufre escasez de agua potable. El rÌo que abastece la zona est· contaminado por mercurio de la minerÌa ilegal de Minerales Vallequieto. Mientras tanto, el empresario turÌstico Ricardo Lozano desvÌa agua limpia subterr·nea a su lujoso hotel ParaÌso Dorado, agravando la crisis.
-
-Detonante:
-Hoy, la comunidad ha bloqueado la entrada al hotel exigiendo acceso al agua. La tensiÛn est· al lÌmite, y medios locales han llegado a cubrir la protesta.
-
-Rol 1: MarÌa S·nchez (Madre desplazada) / Mario S·nchez (Padre desplazado)
-Contexto:
-* LlegÛ a Vallequieto hace 3 aÒos tras ser desplazada de su finca por un grupo armado.
-* Su hijo de 8 aÒos tiene erupciones en la piel por el agua contaminada, su hijo menor muriÛ por el conflicto. 
+* Lleg√≥ a Vallequieto hace 3 a√±os tras ser desplazada de su finca por un grupo armado.
+* Su hijo de 8 a√±os tiene erupciones en la piel por el agua contaminada, su hijo menor muri√≥ por el conflicto. 
 Objetivos:
 1. Exigir agua limpia para el barrio.
-2. Denunciar la contaminaciÛn de Minerales Vallequieto.
-InformaciÛn oculta (solo para ti):
-* EscuchÛ que el alcalde recibiÛ sobornos de la empresa minera.
+2. Denunciar la contaminaci√≥n de Minerales Vallequieto.
+Informaci√≥n oculta (solo para ti):
+* Escuch√≥ que el alcalde recibi√≥ sobornos de la empresa minera.
 * Tiene un frasco con agua contaminada como prueba.
 Instrucciones:
 * Organiza a los vecinos para el bloqueo del hotel.
-* Usa el frasco como sÌmbolo medi·tico.
-* No confÌes en el empresario: sospechas que est· aliado con el alcalde.
+* Usa el frasco como s√≠mbolo medi√°tico.
+* No conf√≠es en el empresario: sospechas que est√° aliado con el alcalde.
 
-Rol 2: Camilo Rojas (Joven activista ambiental) / Camila Rojas
+Rol 2: Activista Ambiental: Camilo Rojas (Joven activista ambiental) / Camila Rojas
 Contexto:
-* Estudiante de biologÌa y fundador del colectivo Guardianes del RÌo.
-* DocumentÛ la contaminaciÛn con drones y encontrÛ tuberÌas ilegales del hotel.
+* Estudiante de biolog√≠a y fundador del colectivo Guardianes del R√≠o.
+* Document√≥ la contaminaci√≥n con drones y encontr√≥ tuber√≠as ilegales del hotel.
 Objetivos:
-1. Exponer el desvÌo de agua del hotel.
-2. Presionar a las autoridades para clausurar la minerÌa ilegal.
-InformaciÛn oculta (solo para ti):
-* Tienes un video del desvÌo de agua, pero temes filtrarlo por represalias.
-* Sabes que el hotel usa quÌmicos que empeoran la contaminaciÛn.
+1. Exponer el desv√≠o de agua del hotel.
+2. Presionar a las autoridades para clausurar la miner√≠a ilegal.
+Informaci√≥n oculta (solo para ti):
+* Tienes un video del desv√≠o de agua, pero temes filtrarlo por represalias.
+* Sabes que el hotel usa qu√≠micos que empeoran la contaminaci√≥n.
 Instrucciones:
-* Aliado con MarÌa/Mario para ganar apoyo comunitario.
+* Aliado con Mar√≠a/Mario para ganar apoyo comunitario.
 * Negocia con el periodista para publicar el video.
-* No reveles tu identidad como lÌder del colectivo.
+* No reveles tu identidad como l√≠der del colectivo.
 
-Rol 3: Ricardo Lozano (Empresario turÌstico) / Raquel Lozano
+Rol 3: Empresario Tur√≠stico: Ricardo Lozano (Empresario tur√≠stico) / Raquel Lozano
 Contexto:
-* DueÒo del hotel ParaÌso Dorado, promocionado como "ecolÛgico".
-* FinanciÛ la campaÒa del alcalde a cambio de permisos de agua.
+* Due√±o del hotel Para√≠so Dorado, promocionado como "ecol√≥gico".
+* Financi√≥ la campa√±a del alcalde a cambio de permisos de agua.
 Objetivos:
-1. Levantar el bloqueo sin perder reputaciÛn.
-2. Ocultar el desvÌo de agua y los vÌnculos con la minerÌa.
-InformaciÛn oculta (solo para ti):
+1. Levantar el bloqueo sin perder reputaci√≥n.
+2. Ocultar el desv√≠o de agua y los v√≠nculos con la miner√≠a.
+Informaci√≥n oculta (solo para ti):
 * El hotel lava dinero para Minerales Vallequieto.
-* Tienes un soborno listo para el lÌder comunitario que negocie contigo.
-* Necesitas del dinero extra para poder pagar los prÈstamos recibidos aÒos atr·s por grupos paramilitares. 
+* Tienes un soborno listo para el l√≠der comunitario que negocie contigo.
+* Necesitas del dinero extra para poder pagar los pr√©stamos recibidos a√±os atr√°s por grupos paramilitares. 
 Instrucciones:
 * Ofrece "donaciones" a la comunidad para callar las protestas.
-* Niega cualquier vÌnculo con la minerÌa ilegal.
+* Niega cualquier v√≠nculo con la miner√≠a ilegal.
 
 --------------------------------------------------------------------------------------------------------------------
 
 
-Ejercicio 2: Fake News y EstigmatizaciÛn
-
-Objetivo: Analizar el impacto de la desinformaciÛn en la construcciÛn de paz y diseÒar estrategias para contrarrestar narrativas daÒinas.
-
-
-Ejercicio 2: Las noticias de Vallequieto
-UbicaciÛn: Ciudad de Vallequieto.
+Ejercicio 2: Fake News y Estigmatizaci√≥n
+T√≠tulo: "Las noticias de Vallequieto"
+Roles: Rol 1: Excombatiente, Rol 2: Periodista Independiente, Rol 3: Alcalde
+Ubicaci√≥n: Ciudad de Vallequieto.
 Contexto:
-El medio sensacionalista Noticias R·pidas publicÛ un artÌculo titulado "Excombatiente lidera nuevo grupo armado", vinculando a Javier MÈndez (excombatiente en proceso de reintegraciÛn) con actividades criminales. La noticia, basada en fuentes anÛnimas, ha generado linchamientos sociales y presiÛn para que Javier sea expulsado del programa de reintegraciÛn.
+El medio sensacionalista Noticias R√°pidas public√≥ un art√≠culo titulado "Excombatiente lidera nuevo grupo armado", vinculando a Javier M√©ndez (excombatiente en proceso de reintegraci√≥n) con actividades criminales. La noticia, basada en fuentes an√≥nimas, ha generado linchamientos sociales y presi√≥n para que Javier sea expulsado del programa de reintegraci√≥n.
 Detonante:
-Javier, con apoyo del sacerdote Gabriel LÛpez, exige una rectificaciÛn p˙blica. Mientras tanto, el alcalde de Vallequieto presiona al periodista independiente Ana Torres para que no investigue el origen de la fake news.
+Javier, con apoyo del sacerdote Gabriel L√≥pez, exige una rectificaci√≥n p√∫blica. Mientras tanto, el alcalde de Vallequieto presiona al periodista independiente Ana Torres para que no investigue el origen de la fake news.
 
-Rol 1: Javier MÈndez (Excombatiente) / Javiera MÈndez
+Rol 1: Excombatiente: Javier M√©ndez (Excombatiente) / Javiera M√©ndez
 Contexto:
-* Exintegrante de un grupo armado, lleva 2 aÒos en reintegraciÛn. Trabaja en un taller de carpinterÌa y ayuda a jÛvenes en riesgo.
+* Exintegrante de un grupo armado, lleva 2 a√±os en reintegraci√≥n. Trabaja en un taller de carpinter√≠a y ayuda a j√≥venes en riesgo.
 * Las fake news ha puesto en peligro su empleo y seguridad.
 Objetivos:
-1. Exigir una rectificaciÛn p˙blica de Noticias R·pidas.
+1. Exigir una rectificaci√≥n p√∫blica de Noticias R√°pidas.
 2. Proteger a su familia de amenazas.
-InformaciÛn oculta (solo para ti):
-* Sabes que el artÌculo fue ordenado por el alcalde para desviar atenciÛn de sus vÌnculos con narcos.
-* Guardas un archivo con mensajes de extorsiÛn que recibiÛ de un grupo criminal.
+Informaci√≥n oculta (solo para ti):
+* Sabes que el art√≠culo fue ordenado por el alcalde para desviar atenci√≥n de sus v√≠nculos con narcos.
+* Guardas un archivo con mensajes de extorsi√≥n que recibi√≥ de un grupo criminal.
 Instrucciones:
 * Busca alianza con el periodista independiente para exponer la verdad.
-* No reveles el archivo de extorsiÛn a˙n: podrÌa poner en riesgo a tu familia.
+* No reveles el archivo de extorsi√≥n a√∫n: podr√≠a poner en riesgo a tu familia.
 
-Rol 2: Ana Torres (Periodista independiente) / Juan Torres
+Rol 2: Periodista independiente: Ana Torres (Periodista independiente) / Juan Torres
 Contexto:
-* Investigadora de La Voz de Vallequieto, medio crÌtico con la corrupciÛn.
-* DescubriÛ que Noticias R·pidas recibe financiaciÛn de una empresa fantasma vinculada al alcalde.
+* Investigadora de La Voz de Vallequieto, medio cr√≠tico con la corrupci√≥n.
+* Descubri√≥ que Noticias R√°pidas recibe financiaci√≥n de una empresa fantasma vinculada al alcalde.
 Objetivos:
 1. Publicar un reportaje que desmienta la fake news.
 2. Proteger tus fuentes y evitar represalias.
-InformaciÛn oculta (solo para ti):
+Informaci√≥n oculta (solo para ti):
 * Tienes un audio donde el alcalde ordena difamar a Javier.
-* Temes que tu jefe censure el reportaje por presiÛn polÌtica.
+* Temes que tu jefe censure el reportaje por presi√≥n pol√≠tica.
 Instrucciones:
-* Convence a Javier de que te entregue pruebas de la extorsiÛn.
+* Convence a Javier de que te entregue pruebas de la extorsi√≥n.
 * Negocia con el sacerdote para obtener testimonios de la comunidad.
 
-Rol 3: Alcalde Roberto S·nchez / Roberta S·nchez
+Rol 3: Alcalde: Roberto S√°nchez / Roberta S√°nchez
 Contexto:
 * Alcalde de Vallequieto, vinculado a Minerales Vallequieto y grupos narcos.
-* OrdenÛ la fake news para desacreditar a Javier, quien tiene informaciÛn sobre sus vÌnculos criminales.
+* Orden√≥ la fake news para desacreditar a Javier, quien tiene informaci√≥n sobre sus v√≠nculos criminales.
 Objetivos:
 1. Silenciar a Javier y al periodista.
-2. Mantener la imagen de "lÌder comprometido con la paz".
-InformaciÛn oculta (solo para ti):
-* La empresa fantasma que financia Noticias R·pidas es tuya.
-* Ofrecer·s sobornos o amenazas para evitar que se revele la verdad.
+2. Mantener la imagen de "l√≠der comprometido con la paz".
+Informaci√≥n oculta (solo para ti):
+* La empresa fantasma que financia Noticias R√°pidas es tuya.
+* Ofrecer√°s sobornos o amenazas para evitar que se revele la verdad.
 Instrucciones:
-* Presiona a Ana para que abandone la investigaciÛn.
+* Presiona a Ana para que abandone la investigaci√≥n.
 * Ofrece a Javier un "puesto en otra ciudad" a cambio de su silencio.
 
 ----------------------------------------------------------------------------------------------------------------------
 
-Ejercicio 3: MinerÌa en Wanar˙a
-Objetivo: Analizar cÛmo la debilidad institucional y la corrupciÛn facilitan la explotaciÛn ilegal de recursos, y diseÒar estrategias para fortalecer la transparencia.
+Ejercicio 3: Miner√≠a en Wanar√∫a
+T√≠tulo: "Las minas de Wanar√∫a"
+Roles: Rol 1: Lider ind√≠gena, Rol 2: Dirigente Sindical, Rol 3: Sacerdote
+Ubicaci√≥n: Territorio ind√≠gena Wanarua, Vallequieto.
 
-UbicaciÛn: Territorio indÌgena Wanarua, Vallequieto.
 
+Contexto: La comunidad ind√≠gena Wanarua denunci√≥ que el gobierno otorg√≥ licencias mineras a la empresa Minerales Vallequieto en su territorio sagrado, sin consulta previa. Los estudios de impacto ambiental fueron falsificados, y la miner√≠a ya ha contaminado el r√≠o principal. Mientras tanto, el dirigente sindical de los mineros legales acusa al Estado de proteger a la empresa ilegal, y el sacerdote local intenta mediar.
+Detonante: La comunidad Wanarua bloque√≥ las v√≠as de acceso a la mina. El gobierno amenaza con desalojarlos, y la empresa usa grupos armados para intimidar.
 
+Rol 1: L√≠der Ind√≠gena: Aruk√° Wanarua (L√≠der ind√≠gena)
 Contexto:
-La comunidad indÌgena Wanarua denunciÛ que el gobierno otorgÛ licencias mineras a la empresa Minerales Vallequieto en su territorio sagrado, sin consulta previa. Los estudios de impacto ambiental fueron falsificados, y la minerÌa ya ha contaminado el rÌo principal. Mientras tanto, el dirigente sindical de los mineros legales acusa al Estado de proteger a la empresa ilegal, y el sacerdote local intenta mediar.
-Detonante:
-La comunidad Wanarua bloqueÛ las vÌas de acceso a la mina. El gobierno amenaza con desalojarlos, y la empresa usa grupos armados para intimidar.
-
-Rol 1: Aruk· Wanarua (LÌder indÌgena)
-Contexto:
-* Guardi·n del territorio sagrado Wanarua.
-* Su comunidad depende del rÌo para pesca, agricultura y rituales.
+* Guardi√°n del territorio sagrado Wanarua.
+* Su comunidad depende del r√≠o para pesca, agricultura y rituales.
 Objetivos:
 1. Cancelar las licencias mineras ilegales.
-2. Exigir consulta previa y reparaciÛn ambiental.
-InformaciÛn oculta (solo para ti):
-* Tienes un mapa ancestral que muestra vetas de oro bajo el rÌo (por eso la empresa codicia el territorio).
-* Sabes que el alcalde recibiÛ sobornos, pero no tienes pruebas.
+2. Exigir consulta previa y reparaci√≥n ambiental.
+Informaci√≥n oculta (solo para ti):
+* Tienes un mapa ancestral que muestra vetas de oro bajo el r√≠o (por eso la empresa codicia el territorio).
+* Sabes que el alcalde recibi√≥ sobornos, pero no tienes pruebas.
 Instrucciones:
-* Usa el mapa ancestral como sÌmbolo de resistencia, pero no lo muestres a˙n.
+* Usa el mapa ancestral como s√≠mbolo de resistencia, pero no lo muestres a√∫n.
 * Busca alianza con el sacerdote para presionar a medios internacionales.
 
-Rol 2: Carlos MÈndez (Dirigente sindical) / Carla MÈndez
+Rol 2: Dirigente Sindical: Carlos M√©ndez (Dirigente sindical) / Carla M√©ndez
 Contexto:
-* LÌder de mineros legales de Vallequieto, afectados por la competencia desleal de la minerÌa ilegal.
+* L√≠der de mineros legales de Vallequieto, afectados por la competencia desleal de la miner√≠a ilegal.
 Objetivos:
 1. Denunciar que Minerales Vallequieto evade impuestos y normas laborales.
 2. Exigir que el Estado fiscalice a la empresa ilegal.
-InformaciÛn oculta (solo para ti):
+Informaci√≥n oculta (solo para ti):
 * La empresa usa maquinaria robada de minas legales.
-* Tienes un informe que prueba que el Ministerio de Minas firmÛ licencias sin revisar estudios ambientales.
+* Tienes un informe que prueba que el Ministerio de Minas firm√≥ licencias sin revisar estudios ambientales.
 Instrucciones:
 * Presiona al sacerdote para que apoye una huelga de mineros legales.
-* No reveles el informe a˙n: podrÌa poner en riesgo tu seguridad.
+* No reveles el informe a√∫n: podr√≠a poner en riesgo tu seguridad.
 
-Rol 3: Padre Gabriel LÛpez (Sacerdote/compaÒero de paz) / Gabriela LÛpez
+Rol 3: Sacerdote: Padre Gabriel L√≥pez (Sacerdote/compa√±ero de paz) / Gabriela L√≥pez
 Contexto:
 * Mediador respetado en Vallequieto, con acceso a actores clave.
 Objetivos:
 1. Evitar violencia entre la comunidad, la empresa y el Estado.
-2. Promover un di·logo transparente con pruebas concretas.
-InformaciÛn oculta (solo para ti):
-* Un minero ilegal te confesÛ que la empresa est· vinculada al Clan del Golfo.
-* Tienes contactos en la ComisiÛn Interamericana de Derechos Humanos (CIDH).
+2. Promover un di√°logo transparente con pruebas concretas.
+Informaci√≥n oculta (solo para ti):
+* Un minero ilegal te confes√≥ que la empresa est√° vinculada al Clan del Golfo.
+* Tienes contactos en la Comisi√≥n Interamericana de Derechos Humanos (CIDH).
 Instrucciones:
-* Convence a Aruk· y Carlos de unir fuerzas (indÌgenas + mineros legales).
-* Usa tu red internacional para exponer el caso, pero sÈ estratÈgico para no escalar represalias.
+* Convence a Aruk√° y Carlos de unir fuerzas (ind√≠genas + mineros legales).
+* Usa tu red internacional para exponer el caso, pero s√© estrat√©gico para no escalar represalias.
 
 
 ----------------------------------------------------------------------------------------------------------------------
 
-Ejercicio 4: NegociaciÛn Secreta
-TÌtulo: "Entre el Progreso y el Peligro"
-Objetivo: Practicar estrategias para resolver conflictos donde intereses legÌtimos chocan con presiones externas ocultas.
+Ejercicio 4: Negociaci√≥n Secreta
+T√≠tulo: "Entre el Progreso y el Peligro"
+Roles: Rol 1: Alcalde/alcaldesa, Rol 2: Empresario Tur√≠stico/Empresaria Tur√≠stica
+Ubicaci√≥n: Oficina de la Alcaldesa, Vallequieto.
 
-UbicaciÛn:
-Oficina de la Alcaldesa, Vallequieto.
-
-Contexto General:
-La alcaldesa y la empresaria turÌstica deben negociar la expansiÛn de un proyecto hotelero que promete generar empleos y reactivar la economÌa local. Sin embargo, el proyecto amenaza un manglar protegido, vital para la pesca artesanal y rituales ancestrales de comunidades indÌgenas. Ambas enfrentan presiones externas que complican la transparencia del acuerdo, y sus decisiones podrÌan tener consecuencias imprevistas para el equilibrio social y ambiental de Vallequieto
+Contexto General: La alcaldesa y la empresaria tur√≠stica deben negociar la expansi√≥n de un proyecto hotelero que promete generar empleos y reactivar la econom√≠a local. Sin embargo, el proyecto amenaza un manglar protegido, vital para la pesca artesanal y rituales ancestrales de comunidades ind√≠genas. Ambas enfrentan presiones externas que complican la transparencia del acuerdo, y sus decisiones podr√≠an tener consecuencias imprevistas para el equilibrio social y ambiental de Vallequieto
 
 
-Rol 1: Roberta S·nchez (Alcaldesa)
+Rol 1: Roberta S√°nchez (Alcaldesa)
 Contexto:
-Eres una lÌder comunitaria que llegÛ a la alcaldÌa para sacar a Vallequieto de la pobreza. Tu hijo mayor, AndrÈs (17 aÒos), estudia en la ciudad y sueÒa con ser ingeniero, pero el costo de su universidad te obliga a buscar fondos urgentes.
+Eres una l√≠der comunitaria que lleg√≥ a la alcald√≠a para sacar a Vallequieto de la pobreza. Tu hijo mayor, Andr√©s (17 a√±os), estudia en la ciudad y sue√±a con ser ingeniero, pero el costo de su universidad te obliga a buscar fondos urgentes.
 Objetivos:
-1. Aprobar la expansiÛn del hotel para financiar becas educativas en el pueblo, incluyendo la de AndrÈs.
-2. Evitar que el Clan del Golfo revele que aceptaste un "prÈstamo" suyo para reparar la escuela rural.
-InformaciÛn oculta (solo para ti):
-* Tu motivaciÛn oculta: El Clan del Golfo te amenazÛ con daÒar a AndrÈs si no apruebas el proyecto.
-* Tu contradicciÛn: Sabes que el manglar es vital para los pescadores, pero sin el hotel, 30 familias perder·n sus empleos.
+1. Aprobar la expansi√≥n del hotel para financiar becas educativas en el pueblo, incluyendo la de Andr√©s.
+2. Evitar que el Clan del Golfo revele que aceptaste un "pr√©stamo" suyo para reparar la escuela rural.
+Informaci√≥n oculta (solo para ti):
+* Tu motivaci√≥n oculta: El Clan del Golfo te amenaz√≥ con da√±ar a Andr√©s si no apruebas el proyecto.
+* Tu contradicci√≥n: Sabes que el manglar es vital para los pescadores, pero sin el hotel, 30 familias perder√°n sus empleos.
 Instrucciones:
-* Usa el argumento de "educaciÛn para los jÛvenes" para justificar la expansiÛn.
-* Si Rachel se niega a modificar los planes, sugiÈrele reducir el impacto ambiental... pero no le digas que el Clan ya talÛ parte del manglar.
+* Usa el argumento de "educaci√≥n para los j√≥venes" para justificar la expansi√≥n.
+* Si Rachel se niega a modificar los planes, sugi√©rele reducir el impacto ambiental... pero no le digas que el Clan ya tal√≥ parte del manglar.
 
-Rol 2: Rachel Lozano (Empresaria turÌstica)
+Rol 2: Rachel Lozano (Empresaria tur√≠stica)
 Contexto:
-Administras el hotel ParaÌso Dorado, heredado de tus padres. Es el sustento de decenas de familias en Vallequieto, pero necesitas modernizarlo para competir con Airbnb y otras cadenas hoteleras. Tu hija Camila (15 aÒos) tiene asma crÛnica y requiere medicamentos costosos que no cubre el sistema de salud.
+Administras el hotel Para√≠so Dorado, heredado de tus padres. Es el sustento de decenas de familias en Vallequieto, pero necesitas modernizarlo para competir con Airbnb y otras cadenas hoteleras. Tu hija Camila (15 a√±os) tiene asma cr√≥nica y requiere medicamentos costosos que no cubre el sistema de salud.
 Objetivos:
 1. Expandir el hotel para incluir un centro de ecoturismo que atraiga visitantes internacionales.
-2. Ocultar que el prÈstamo para la expansiÛn viene de una cooperativa vinculada al Clan del Golfo.
-InformaciÛn oculta (solo para ti):
-* Tu motivaciÛn oculta: El Clan prometiÛ financiar un dispensario mÈdico en el hotel si apruebas la tala del manglar.
+2. Ocultar que el pr√©stamo para la expansi√≥n viene de una cooperativa vinculada al Clan del Golfo.
+Informaci√≥n oculta (solo para ti):
+* Tu motivaci√≥n oculta: El Clan prometi√≥ financiar un dispensario m√©dico en el hotel si apruebas la tala del manglar.
 * Tu dilema: El manglar es el lugar donde Camila juega los fines de semana, y temes que su salud empeore si se contamina.
 Instrucciones:
-* PropÛn "capacitar a pescadores como guÌas turÌsticos" para compensar la pÈrdida del manglar.
-* Si Roberta duda, recuÈrdale que sin el proyecto, despedir·s a trabajadores... incluido su primo, Juan.
+* Prop√≥n "capacitar a pescadores como gu√≠as tur√≠sticos" para compensar la p√©rdida del manglar.
+* Si Roberta duda, recu√©rdale que sin el proyecto, despedir√°s a trabajadores... incluido su primo, Juan.
 
 -----------------------------------------------------------------------------------------------------------------------
 
-Ejercicio 5: ConciliaciÛn en la Finca Bananera
-TÌtulo: "RaÌces, Tierra, Trabajo y Verdad"
-Objetivo: Practicar estrategias de conciliaciÛn en un contexto de desconfianza histÛrica, integrando derechos laborales, ambientales y procesos de paz.
+Ejercicio 5: Conciliaci√≥n en la Finca Bananera
+T√≠tulo: "Ra√≠ces, Tierra, Trabajo y Verdad"
+Roles: Rol 1: Dirigente Sindical, Rol 2: Excombatiente, Rol 3: Sacerdote/Sacerdotisa 
 
-UbicaciÛn:
-Finca bananera "La Esperanza", Vallequieto. Un lugar otrora prÛspero, ahora marcado por cultivos marchitos y casas abandonadas
+Ubicaci√≥n: Finca bananera "La Esperanza", Vallequieto. Un lugar otrora pr√≥spero, ahora marcado por cultivos marchitos y casas abandonadas
 
-Contexto General:
-La finca bananera La Esperanza, histÛrica fuente de empleo en Vallequieto, enfrenta una crisis que amenaza su supervivencia: los trabajadores exigen salarios dignos y protecciÛn contra pesticidas tÛxicos vinculados a enfermedades graves, mientras excombatientes buscan oportunidades laborales para reintegrarse a la sociedad. La contaminaciÛn del suelo y el rÌo cercano ha generado conflictos con comunidades que dependen de esos recursos, y una mediadora intenta conciliar intereses entre empleados, administraciÛn y actores locales. Sin embargo, presiones externas y desconfianzas heredadas del pasado complican un acuerdo que equilibre empleo urgente, salud p˙blica y sostenibilidad ambiental, poniendo en juego el futuro de decenas de familias y el fr·gil equilibrio social de Vallequieto.
+Contexto General:La finca bananera La Esperanza, hist√≥rica fuente de empleo en Vallequieto, enfrenta una crisis que amenaza su supervivencia: los trabajadores exigen salarios dignos y protecci√≥n contra pesticidas t√≥xicos vinculados a enfermedades graves, mientras excombatientes buscan oportunidades laborales para reintegrarse a la sociedad. La contaminaci√≥n del suelo y el r√≠o cercano ha generado conflictos con comunidades que dependen de esos recursos, y una mediadora intenta conciliar intereses entre empleados, administraci√≥n y actores locales. Sin embargo, presiones externas y desconfianzas heredadas del pasado complican un acuerdo que equilibre empleo urgente, salud p√∫blica y sostenibilidad ambiental, poniendo en juego el futuro de decenas de familias y el fr√°gil equilibrio social de Vallequieto.
 
-Rol 1: Carla MÈndez (Dirigente sindical)
+Rol 1: Dirigente Sindical: Carla M√©ndez (Dirigente sindical)
 Contexto:
-Eres hija de un sindicalista asesinado por denunciar a Minerales Vallequieto. Lideras a los trabajadores bananeros, muchos de los cuales sufren enfermedades respiratorias y renales por los pesticidas. Tu hermano menor est· hospitalizado por intoxicaciÛn.
+Eres hija de un sindicalista asesinado por denunciar a Minerales Vallequieto. Lideras a los trabajadores bananeros, muchos de los cuales sufren enfermedades respiratorias y renales por los pesticidas. Tu hermano menor est√° hospitalizado por intoxicaci√≥n.
 Objetivos:
-1. Solicitar como mÌnimo un aumento salarial del 30% a los trabajadores y equipos de protecciÛn obligatorios.
-2. Exigir clÌnicas mÈdicas permanentes en la finca, financiadas por el dueÒo.
+1. Solicitar como m√≠nimo un aumento salarial del 30% a los trabajadores y equipos de protecci√≥n obligatorios.
+2. Exigir cl√≠nicas m√©dicas permanentes en la finca, financiadas por el due√±o.
 3. Solicitar involucramiento del Gobierno y/u Organismos Internacionales para que verifiquen las condiciones. 
-4. Rechazar cualquier acuerdo que permita seguir usando pesticidas tÛxicos.
-InformaciÛn oculta (solo para ti):
-* Tienes un informe mÈdico que prueba que los pesticidas usados son los mismos que contaminaron el agua del barrio La Esperanza (Ejercicio 1).
-* El dueÒo de la finca tiene una cuenta offshore vinculada a Minerales Vallequieto.
+4. Rechazar cualquier acuerdo que permita seguir usando pesticidas t√≥xicos.
+Informaci√≥n oculta (solo para ti):
+* Tienes un informe m√©dico que prueba que los pesticidas usados son los mismos que contaminaron el agua del barrio La Esperanza (Ejercicio 1).
+* El due√±o de la finca tiene una cuenta offshore vinculada a Minerales Vallequieto.
 Instrucciones:
 * Usa el lema "Salud no se negocia" para presionar.
-* Si Javiera se muestra flexible, recuÈrdale que su hija tambiÈn est· en riesgo por el agua contaminada.
+* Si Javiera se muestra flexible, recu√©rdale que su hija tambi√©n est√° en riesgo por el agua contaminada.
 
-Rol 2: Javiera MÈndez (Excombatiente)
+Rol 2: Javiera M√©ndez (Excombatiente)
 Contexto:
-Eres una excombatiente que trabaja en la finca bananera desde hace dos aÒos, tras un largo proceso de reintegraciÛn. Tu hija de 8 aÒos, LucÌa, sufre una enfermedad renal por el agua contaminada de Vallequieto (Ejercicio 1) y depende del seguro mÈdico de la finca para sobrevivir. Sabes que, si la finca cierra o enfrenta sanciones, perder·s el ˙nico ingreso que mantiene a tu familia.
+Eres una excombatiente que trabaja en la finca bananera desde hace dos a√±os, tras un largo proceso de reintegraci√≥n. Tu hija de 8 a√±os, Luc√≠a, sufre una enfermedad renal por el agua contaminada de Vallequieto (Ejercicio 1) y depende del seguro m√©dico de la finca para sobrevivir. Sabes que, si la finca cierra o enfrenta sanciones, perder√°s el √∫nico ingreso que mantiene a tu familia.
 Objetivos:
-1. Limitar las exigencias sindicales: Proponer que el sindicato no presione por auditorÌas ambientales estrictas ni inspecciones laborales externas, alegando que "podrÌan cerrar la finca".
+1. Limitar las exigencias sindicales: Proponer que el sindicato no presione por auditor√≠as ambientales estrictas ni inspecciones laborales externas, alegando que "podr√≠an cerrar la finca".
 2. Suavizar las demandas: Sugerir un aumento salarial gradual (15% en 12 meses, no 30% inmediato) para no "ahuyentar inversiones".
-3. Proteger tu empleo: Evitar que Carla organice protestas p˙blicas, pues temes que el dueÒo despida a trabajadores "problem·ticos" como t˙.
-InformaciÛn oculta (solo para ti):
-* Amenaza velada: El Clan del Golfo te advirtiÛ que, si hay inspecciones gubernamentales en la finca, "habr· consecuencias para los que hablen". No sabes si se refieren a ti o a LucÌa.
-* Tu temor real: Si la finca cierra, no solo perder·s el trabajo: el Clan reclutar· a jÛvenes desempleados, incluyendo a tu sobrino de 16 aÒos.
-* ConexiÛn ambiental: Sabes que los pesticidas de la finca son los mismos que contaminaron el agua de MarÌa S·nchez (Ejercicio 1), pero callas por miedo.
+3. Proteger tu empleo: Evitar que Carla organice protestas p√∫blicas, pues temes que el due√±o despida a trabajadores "problem√°ticos" como t√∫.
+Informaci√≥n oculta (solo para ti):
+* Amenaza velada: El Clan del Golfo te advirti√≥ que, si hay inspecciones gubernamentales en la finca, "habr√° consecuencias para los que hablen". No sabes si se refieren a ti o a Luc√≠a.
+* Tu temor real: Si la finca cierra, no solo perder√°s el trabajo: el Clan reclutar√° a j√≥venes desempleados, incluyendo a tu sobrino de 16 a√±os.
+* Conexi√≥n ambiental: Sabes que los pesticidas de la finca son los mismos que contaminaron el agua de Mar√≠a S√°nchez (Ejercicio 1), pero callas por miedo.
 Instrucciones:
 * Argumentos clave:
-o "Si exigimos demasiado, el dueÒo llevar· la producciÛn a otra regiÛn y todos perderemos".
-o "Las inspecciones del gobierno solo traer·n multas, no soluciones reales".
+o "Si exigimos demasiado, el due√±o llevar√° la producci√≥n a otra regi√≥n y todos perderemos".
+o "Las inspecciones del gobierno solo traer√°n multas, no soluciones reales".
 * Estrategias:
-o Apela al miedo de Carla por su hermano enfermo: "øY si cierran la finca y Èl pierde su tratamiento mÈdico?".
-o PropÛn un "pacto de transparencia interna" (autoregulaciÛn sin intervenciÛn externa) para evitar auditorÌas.
+o Apela al miedo de Carla por su hermano enfermo: "¬øY si cierran la finca y √©l pierde su tratamiento m√©dico?".
+o Prop√≥n un "pacto de transparencia interna" (autoregulaci√≥n sin intervenci√≥n externa) para evitar auditor√≠as.
 * No reveles:
 o Las amenazas del Clan del Golfo.
-o Tu conocimiento sobre el vÌnculo entre los pesticidas y la contaminaciÛn del agua.
+o Tu conocimiento sobre el v√≠nculo entre los pesticidas y la contaminaci√≥n del agua.
 
 
-Rol 3: Sacerdotisa Gabriela LÛpez (Mediadora)
+Rol 3: Sacerdote/Sacerdotisa: Gabriela L√≥pez (Mediadora)
 Contexto:
-Eres una lÌder espiritual respetada en Vallequieto por tu trabajo reconciliando comunidades indÌgenas, campesinos y excombatientes. Tu esposo, un biÛlogo, muriÛ investigando la contaminaciÛn del rÌo causada por los pesticidas de la finca. Ahora crÌas a tu hijo adoptivo, Mateo (12 aÒos), quien sufre asma por el aire contaminado. Tu misiÛn es lograr un acuerdo que salve empleos sin sacrificar vidas.
+Eres una l√≠der espiritual respetada en Vallequieto por tu trabajo reconciliando comunidades ind√≠genas, campesinos y excombatientes. Tu esposo, un bi√≥logo, muri√≥ investigando la contaminaci√≥n del r√≠o causada por los pesticidas de la finca. Ahora cr√≠as a tu hijo adoptivo, Mateo (12 a√±os), quien sufre asma por el aire contaminado. Tu misi√≥n es lograr un acuerdo que salve empleos sin sacrificar vidas.
 Objetivos:
 1. Mediar entre Carla y Javiera:
-o Carla exige aumentos salariales y eliminaciÛn de pesticidas; Javiera teme que esto provoque cierre de la finca o represalias.
+o Carla exige aumentos salariales y eliminaci√≥n de pesticidas; Javiera teme que esto provoque cierre de la finca o represalias.
 o Debes proponer un pacto intermedio que garantice:
-* ReducciÛn gradual de pesticidas (50% en 6 meses).
+* Reducci√≥n gradual de pesticidas (50% en 6 meses).
 * Aumento salarial del 20%, financiado parcialmente por subsidios estatales.
 * Programas de salud sin involucrar inspecciones gubernamentales (para calmar a Javiera).
 2. Proteger a ambas partes de amenazas externas:
-o Evitar que el di·logo se vea saboteado por actores que quieren desestabilizar la finca.
-InformaciÛn oculta (solo para ti):
-* ConexiÛn con Ejercicio 1: Tienes muestras de agua de la finca que prueban que los pesticidas son los mismos que contaminaron el barrio La Esperanza.
-* Semillas ancestrales: Guardas semillas de cultivos nativos resistentes a plagas (usadas por Aruk· Wanarua), que podrÌan reemplazar los pesticidas, pero necesitas convencer al dueÒo de la finca.
-* PresiÛn de la alcaldesa: Roberta S·nchez (Ejercicio 2) te ofreciÛ fondos para una clÌnica infantil si evitas que Carla exponga a Minerales Vallequieto.
+o Evitar que el di√°logo se vea saboteado por actores que quieren desestabilizar la finca.
+Informaci√≥n oculta (solo para ti):
+* Conexi√≥n con Ejercicio 1: Tienes muestras de agua de la finca que prueban que los pesticidas son los mismos que contaminaron el barrio La Esperanza.
+* Semillas ancestrales: Guardas semillas de cultivos nativos resistentes a plagas (usadas por Aruk√° Wanarua), que podr√≠an reemplazar los pesticidas, pero necesitas convencer al due√±o de la finca.
+* Presi√≥n de la alcaldesa: Roberta S√°nchez (Ejercicio 2) te ofreci√≥ fondos para una cl√≠nica infantil si evitas que Carla exponga a Minerales Vallequieto.
 Instrucciones:
 * Estrategias clave:
-o Usa tu credibilidad moral: "Si no actuamos, Mateo y LucÌa (hija de Javiera) heredar·n un valle envenenado".
-o PropÛn un "comitÈ de vigilancia comunitario" (sin intervenciÛn estatal) para monitorear pesticidas, compuesto por trabajadores, excombatientes y un tÈcnico indÌgena.
-o Si Javiera se niega a reducir pesticidas, menciona que "el agua contaminada ya est· llegando al manglar sagrado" (Ejercicio 4), pero no reveles tus pruebas a˙n.
-o Si Carla insiste en auditorÌas, adviÈrtele que "alguien poderoso quiere silenciar este caso" (aludiendo al alcalde, sin nombrarlo).
+o Usa tu credibilidad moral: "Si no actuamos, Mateo y Luc√≠a (hija de Javiera) heredar√°n un valle envenenado".
+o Prop√≥n un "comit√© de vigilancia comunitario" (sin intervenci√≥n estatal) para monitorear pesticidas, compuesto por trabajadores, excombatientes y un t√©cnico ind√≠gena.
+o Si Javiera se niega a reducir pesticidas, menciona que "el agua contaminada ya est√° llegando al manglar sagrado" (Ejercicio 4), pero no reveles tus pruebas a√∫n.
+o Si Carla insiste en auditor√≠as, advi√©rtele que "alguien poderoso quiere silenciar este caso" (aludiendo al alcalde, sin nombrarlo).
 * No reveles:
-o Las semillas ancestrales (ser·n clave en la Mesa Final).
-o La presiÛn del alcalde (podrÌa usarse como amenaza implÌcita).
-
-
-
+o Las semillas ancestrales (ser√°n clave en la Mesa Final).
+o La presi√≥n del alcalde (podr√≠a usarse como amenaza impl√≠cita).
 
 -------------------------------------------------------------------------------------------------------------------------
 
-Ejercicio 6: An·lisis de la Guerra Digital
-TÌtulo: "Mentiras en la Red: Conectando los Hilos de Vallequieto"
-Temas: DesinformaciÛn, poder medi·tico, conexiÛn de conflictos.
-Objetivo: Analizar cÛmo las noticias falsas y las campaÒas de desprestigio ocultan los vÌnculos entre la corrupciÛn, la minerÌa ilegal y el turismo destructivo en Vallequieto.
+Ejercicio 6: An√°lisis de la Guerra Digital
+T√≠tulo: "Mentiras en la Red: Conectando los Hilos de Vallequieto"
+Roles: Rol 1: Activista ambiental, Rol 2: Periodista Local, Rol 3: L√≠der Ind√≠gena, Rol 4: Mujer desplazada
+Ubicaci√≥n: Centro comunitario "Voces de Vallequieto"
 
-UbicaciÛn: Centro comunitario "Voces de Vallequieto"
-
-
-Contexto General:
-En Vallequieto, una oleada de noticias falsas y campaÒas de manipulaciÛn digital est· desacreditando a lÌderes ambientales y sociales, mientras se difunden narrativas que minimizan la contaminaciÛn del agua y promueven proyectos econÛmicos cuestionables. Activistas, periodistas y representantes indÌgenas unen fuerzas para rastrear el origen de estas campaÒas, enfrent·ndose a cuentas falsas y ataques coordinados que buscan silenciar denuncias clave. La lucha por la verdad se libra en redes sociales, donde la desinformaciÛn amenaza con profundizar divisiones sociales y ocultar los vÌnculos entre crisis ambientales y grupos de poder. Las decisiones que se tomen aquÌ definir·n si Vallequieto logra proteger su tejido comunitario o sucumbe a una guerra de mentiras que beneficia a intereses turbios.
+Contexto General: En Vallequieto, una oleada de noticias falsas y campa√±as de manipulaci√≥n digital est√° desacreditando a l√≠deres ambientales y sociales, mientras se difunden narrativas que minimizan la contaminaci√≥n del agua y promueven proyectos econ√≥micos cuestionables. Activistas, periodistas y representantes ind√≠genas unen fuerzas para rastrear el origen de estas campa√±as, enfrent√°ndose a cuentas falsas y ataques coordinados que buscan silenciar denuncias clave. La lucha por la verdad se libra en redes sociales, donde la desinformaci√≥n amenaza con profundizar divisiones sociales y ocultar los v√≠nculos entre crisis ambientales y grupos de poder. Las decisiones que se tomen aqu√≠ definir√°n si Vallequieto logra proteger su tejido comunitario o sucumbe a una guerra de mentiras que beneficia a intereses turbios.
 
 Rol 1: Camilo Rojas (Activista ambiental)
-Contexto: Documentaste con tu telÈfono el desvÌo de agua del hotel ParaÌso Dorado (Ejercicio 1). Ahora, circulan fotos falsas que dicen que "el rÌo est· limpio" y que tus denuncias son "exageradas", realizando tambien ataques personales en tu contra. 
+Contexto: Documentaste con tu tel√©fono el desv√≠o de agua del hotel Para√≠so Dorado (Ejercicio 1). Ahora, circulan fotos falsas que dicen que "el r√≠o est√° limpio" y que tus denuncias son "exageradas", realizando tambien ataques personales en tu contra. 
 Objetivos:
-1. Demostrar que las fotos falsas del rÌo benefician a la empresaria turÌstica Rachel Lozano (Ejercicio 4).
+1. Demostrar que las fotos falsas del r√≠o benefician a la empresaria tur√≠stica Rachel Lozano (Ejercicio 4).
 2. Vincular las mentiras con los permisos ilegales de Minerales Vallequieto (Ejercicio 3).
-InformaciÛn oculta (solo para ti):
-* Acabas de tomar fotos de una reuniÛn entre Rachel Lozano y la alcaldesa cerca del manglar.
-* Tu hermano menor, Daniel, trabaja en el hotel de Rachel Lozano como conserje y te ha filtrado informaciÛn, pero temes que lo despidan. 
+Informaci√≥n oculta (solo para ti):
+* Acabas de tomar fotos de una reuni√≥n entre Rachel Lozano y la alcaldesa cerca del manglar.
+* Tu hermano menor, Daniel, trabaja en el hotel de Rachel Lozano como conserje y te ha filtrado informaci√≥n, pero temes que lo despidan. 
 Instrucciones:
-* Determinar las conexiones entre las redes de desinformaciÛn y los intereses econÛmicos en Vallequieto. 
-* Si alguien duda, pregunta: "øPor quÈ el alcalde no visita el barrio La Esperanza?" (Ejercicio 1).
+* Determinar las conexiones entre las redes de desinformaci√≥n y los intereses econ√≥micos en Vallequieto. 
+* Si alguien duda, pregunta: "¬øPor qu√© el alcalde no visita el barrio La Esperanza?" (Ejercicio 1).
 
 Rol 2: Juan Torres (Periodista local)
-Contexto: Descubriste que el alcalde pagÛ a un medio para difamar a la excombatiente Javiera MÈndez (Ejercicio 2). Ahora investigas una campaÒa que acusa a lÌderes indÌgenas de "oponerse al progreso" y de tacharles como ilegales. 
+Contexto: Descubriste que el alcalde pag√≥ a un medio para difamar a la excombatiente Javiera M√©ndez (Ejercicio 2). Ahora investigas una campa√±a que acusa a l√≠deres ind√≠genas de "oponerse al progreso" y de tacharles como ilegales. 
 Objetivos:
-1. Probar que las noticias contra Aruk· Wanarua (Ejercicio 3) fueron ordenadas por la alcaldesa.
+1. Probar que las noticias contra Aruk√° Wanarua (Ejercicio 3) fueron ordenadas por la alcaldesa.
 2. Revelar que Minerales Vallequieto financia medios sensacionalistas.
-InformaciÛn oculta (solo para ti):
-* Tienes una lista de pagos de la empresa minera al periÛdico Noticias R·pidas (Ejercicio 2).
+Informaci√≥n oculta (solo para ti):
+* Tienes una lista de pagos de la empresa minera al peri√≥dico Noticias R√°pidas (Ejercicio 2).
 * El alcalde planea construir un centro comercial en el manglar sagrado (Ejercicio 4).
 Instrucciones:
-* Escribe un artÌculo titulado "øQuiÈn miente sobre Vallequieto?" usando datos de los ejercicios 1 y 3.
-* Determinar las conexiones entre las redes de desinformaciÛn y los intereses econÛmicos en Vallequieto. 
-* Si te presionan, di: "La verdad est· en los documentos, no en las redes".
-No reveles a˙n:
-* La lista de pagos est· escondida bajo una baldosa suelta en tu casa.
+* Escribe un art√≠culo titulado "¬øQui√©n miente sobre Vallequieto?" usando datos de los ejercicios 1 y 3.
+* Determinar las conexiones entre las redes de desinformaci√≥n y los intereses econ√≥micos en Vallequieto. 
+* Si te presionan, di: "La verdad est√° en los documentos, no en las redes".
+No reveles a√∫n:
+* La lista de pagos est√° escondida bajo una baldosa suelta en tu casa.
 
-Rol 3: Aruk· Wanarua (LÌder indÌgena)
-Contexto: Tu comunidad denunciÛ la minerÌa en su territorio (Ejercicio 3). Ahora, memes falsos dicen que "los indÌgenas roban tierras" y circulan fotos alteradas y mentiras de tus rituales sagrados.
+Rol 3: Aruk√° Wanarua (L√≠der ind√≠gena)
+Contexto: Tu comunidad denunci√≥ la miner√≠a en su territorio (Ejercicio 3). Ahora, memes falsos dicen que "los ind√≠genas roban tierras" y circulan fotos alteradas y mentiras de tus rituales sagrados.
 Objetivos:
-1. Demostrar que las mentiras buscan justificar la invasiÛn de tu territorio por parte de la minerÌa.
-2. Exigir que se investigue quiÈn creÛ los memes con im·genes del manglar.
-InformaciÛn oculta (solo para ti):
-* Encontraste un volante turÌstico que usa fotos del manglar antes de ser contaminado, firmado por Rachel Lozano.
-* El alcalde intentÛ sobornar a tu comunidad con materiales de construcciÛn a cambio de silencio.
+1. Demostrar que las mentiras buscan justificar la invasi√≥n de tu territorio por parte de la miner√≠a.
+2. Exigir que se investigue qui√©n cre√≥ los memes con im√°genes del manglar.
+Informaci√≥n oculta (solo para ti):
+* Encontraste un volante tur√≠stico que usa fotos del manglar antes de ser contaminado, firmado por Rachel Lozano.
+* El alcalde intent√≥ sobornar a tu comunidad con materiales de construcci√≥n a cambio de silencio.
 Instrucciones:
-* Determinar las conexiones entre las redes de desinformaciÛn y los intereses econÛmicos en Vallequieto. 
-* Si te preguntan, di: "La tierra no miente, pero los que la explotan sÌ".
-No reveles a˙n:
-* El volante turÌstico est· guardado en un ba˙l ceremonial.
+* Determinar las conexiones entre las redes de desinformaci√≥n y los intereses econ√≥micos en Vallequieto. 
+* Si te preguntan, di: "La tierra no miente, pero los que la explotan s√≠".
+No reveles a√∫n:
+* El volante tur√≠stico est√° guardado en un ba√∫l ceremonial.
 
-Rol 4: MarÌa S·nchez (Madre desplazada)
+Rol 4: Mar√≠a S√°nchez (Madre desplazada)
 Contexto Ampliado:
-MarÌa, de 42 aÒos, es una madre desplazada que llegÛ a Vallequieto tras perder su finca por la violencia. LiderÛ el bloqueo al hotel ParaÌso Dorado (Ejercicio 1) para exigir agua limpia para su barrio, pero ahora enfrenta una campaÒa de desprestigio en redes sociales que la acusa de "robar donaciones" y "manipular a la comunidad". Su hijo menor, Pedro, sufre ciberacoso en el colegio por su activismo.
+Mar√≠a, de 42 a√±os, es una madre desplazada que lleg√≥ a Vallequieto tras perder su finca por la violencia. Lider√≥ el bloqueo al hotel Para√≠so Dorado (Ejercicio 1) para exigir agua limpia para su barrio, pero ahora enfrenta una campa√±a de desprestigio en redes sociales que la acusa de "robar donaciones" y "manipular a la comunidad". Su hijo menor, Pedro, sufre ciberacoso en el colegio por su activismo.
 Objetivos Clave:
 1. Limpiar su nombre y proteger a su familia de los ataques digitales.
-2. Exponer que las fotos falsas del rÌo "limpio" son usadas para desacreditar su lucha y proteger a Rachel Lozano .
+2. Exponer que las fotos falsas del r√≠o "limpio" son usadas para desacreditar su lucha y proteger a Rachel Lozano .
 3. Unir a la comunidad para resistir las mentiras y fortalecer la lucha por el agua limpia.
-InformaciÛn Oculta (Solo para MarÌa):
+Informaci√≥n Oculta (Solo para Mar√≠a):
 1. Pruebas clave:
-o Frasco de agua contaminada: Guarda una muestra del agua que enfermÛ a su hijo (Ejercicio 1), con un informe mÈdico que vincula los quÌmicos a Minerales Vallequieto.
-o Capturas de pantalla: Tiene im·genes de bots que difunden mentiras sobre ella, con nombres como @VerdadVallequieto2023.
+o Frasco de agua contaminada: Guarda una muestra del agua que enferm√≥ a su hijo (Ejercicio 1), con un informe m√©dico que vincula los qu√≠micos a Minerales Vallequieto.
+o Capturas de pantalla: Tiene im√°genes de bots que difunden mentiras sobre ella, con nombres como @VerdadVallequieto2023.
 2. Conexiones con otros ejercicios:
 o El agua contaminada de la finca bananera (Ejercicio 5) es la misma que afecta a su barrio.
-o Los memes que atacan a Aruk· (Ejercicio 6) usan la misma red de bots que la difaman a ella.
+o Los memes que atacan a Aruk√° (Ejercicio 6) usan la misma red de bots que la difaman a ella.
 3. Conflicto interno:
-o Su esposo le pidiÛ que deje la lucha: "No podemos perder a Pedro por culpa del agua".
-Instrucciones para MarÌa:
-1. Estrategias de AcciÛn:
-o Organizar una protesta pacÌfica: Usar el frasco de agua como sÌmbolo de la contaminaciÛn.
-o Aliarse con Camilo: Compartir sus capturas de pantalla para que Èl las analice y vincule con la red de bots.
-o Hablar con Aruk·: Unir fuerzas para mostrar que las mentiras buscan dividir a las comunidades.
-o Determinar las conexiones entre las redes de desinformaciÛn y los intereses econÛmicos en Vallequieto. 
-2. Di·logo Sugerido:
+o Su esposo le pidi√≥ que deje la lucha: "No podemos perder a Pedro por culpa del agua".
+Instrucciones para Mar√≠a:
+1. Estrategias de Acci√≥n:
+o Organizar una protesta pac√≠fica: Usar el frasco de agua como s√≠mbolo de la contaminaci√≥n.
+o Aliarse con Camilo: Compartir sus capturas de pantalla para que √©l las analice y vincule con la red de bots.
+o Hablar con Aruk√°: Unir fuerzas para mostrar que las mentiras buscan dividir a las comunidades.
+o Determinar las conexiones entre las redes de desinformaci√≥n y los intereses econ√≥micos en Vallequieto. 
+2. Di√°logo Sugerido:
 o "No soy una ladrona, soy una madre que defiende el futuro de sus hijos."
 o "El agua enferma, pero las mentiras matan el alma de Vallequieto."
-3. LÌmites …ticos:
-o No exponer a Pedro ni a otros niÒos en las protestas.
+3. L√≠mites √âticos:
+o No exponer a Pedro ni a otros ni√±os en las protestas.
 o Si el Clan del Golfo la amenaza, usar la frase "Mi lucha es por la vida, no por el miedo".
-
-
-
-
-
