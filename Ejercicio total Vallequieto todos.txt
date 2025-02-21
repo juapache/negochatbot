@@ -1,161 +1,157 @@
 Ejercicio 1: Conflicto Vecinal por el Agua
-Título "Las aguas turbias de Vallequieto"
-Roles: 1: Persona desplazada, 2: Activista Ambiental, 3: Empresario Turístico
-Ubicación: Barrio La Esperanza, Vallequieto.
+  Título "Las aguas turbias de Vallequieto"
+  Roles: 1: Persona desplazada, 2: Activista Ambiental, 3: Empresario Turístico
+  Ubicación: Barrio La Esperanza, Vallequieto.
 
-Contexto: El barrio, habitado por familias desplazadas por la violencia, sufre escasez de agua potable. El río que abastece la zona está contaminado por mercurio de la minería ilegal de Minerales Vallequieto. Mientras tanto, el empresario turístico Ricardo Lozano desvía agua limpia subterránea a su lujoso hotel Paraíso Dorado, agravando la crisis.
+  Contexto: El barrio, habitado por familias desplazadas por la violencia, sufre escasez de agua potable. El río que abastece la zona    está contaminado por mercurio de la minería ilegal de Minerales Vallequieto. Mientras tanto, el empresario turístico Ricardo Lozano    desvía agua limpia subterránea a su lujoso hotel Paraíso Dorado, agravando la crisis.
 
-Detonante: Hoy, la comunidad ha bloqueado la entrada al hotel exigiendo acceso al agua. La tensión está al límite, y medios locales han llegado a cubrir la protesta.
+  Detonante: Hoy, la comunidad ha bloqueado la entrada al hotel exigiendo acceso al agua. La tensión está al límite, y medios locales    han llegado a cubrir la protesta.
 
-Rol 1: Persona Desplazada: María Sánchez (Madre desplazada) / Mario Sánchez (Padre desplazado)
-Contexto:
-* Llegó a Vallequieto hace 3 años tras ser desplazada de su finca por un grupo armado.
-* Su hijo de 8 años tiene erupciones en la piel por el agua contaminada, su hijo menor murió por el conflicto. 
-Objetivos:
-1. Exigir agua limpia para el barrio.
-2. Denunciar la contaminación de Minerales Vallequieto.
-Información oculta (solo para ti):
-* Escuchó que el alcalde recibió sobornos de la empresa minera.
-* Tiene un frasco con agua contaminada como prueba.
-Instrucciones:
-* Organiza a los vecinos para el bloqueo del hotel.
-* Usa el frasco como símbolo mediático.
-* No confíes en el empresario: sospechas que está aliado con el alcalde.
+  Rol 1: Persona Desplazada: María Sánchez (Madre desplazada) / Mario Sánchez (Padre desplazado)
+    Contexto:
+      * Llegó a Vallequieto hace 3 años tras ser desplazada de su finca por un grupo armado.
+      * Su hijo de 8 años tiene erupciones en la piel por el agua contaminada, su hijo menor murió por el conflicto. 
+    Objetivos:
+      1. Exigir agua limpia para el barrio.
+      2. Denunciar la contaminación de Minerales Vallequieto.
+    Información oculta (solo para ti):
+      * Escuchó que el alcalde recibió sobornos de la empresa minera.
+      * Tiene un frasco con agua contaminada como prueba.
+    Instrucciones:
+      * Organiza a los vecinos para el bloqueo del hotel.
+      * Usa el frasco como símbolo mediático.
+      * No confíes en el empresario: sospechas que está aliado con el alcalde.
 
-Rol 2: Activista Ambiental: Camilo Rojas (Joven activista ambiental) / Camila Rojas
-Contexto:
-* Estudiante de biología y fundador del colectivo Guardianes del Río.
-* Documentó la contaminación con drones y encontró tuberías ilegales del hotel.
-Objetivos:
-1. Exponer el desvío de agua del hotel.
-2. Presionar a las autoridades para clausurar la minería ilegal.
-Información oculta (solo para ti):
-* Tienes un video del desvío de agua, pero temes filtrarlo por represalias.
-* Sabes que el hotel usa químicos que empeoran la contaminación.
-Instrucciones:
-* Aliado con María/Mario para ganar apoyo comunitario.
-* Negocia con el periodista para publicar el video.
-* No reveles tu identidad como líder del colectivo.
+    Rol 2: Activista Ambiental: Camilo Rojas (Joven activista ambiental) / Camila Rojas
+      Contexto:
+        * Estudiante de biología y fundador del colectivo Guardianes del Río.
+        * Documentó la contaminación con drones y encontró tuberías ilegales del hotel.
+      Objetivos:
+        1. Exponer el desvío de agua del hotel.
+        2. Presionar a las autoridades para clausurar la minería ilegal.
+      Información oculta (solo para ti):
+        * Tienes un video del desvío de agua, pero temes filtrarlo por represalias.
+        * Sabes que el hotel usa químicos que empeoran la contaminación.
+      Instrucciones:
+        * Aliado con María/Mario para ganar apoyo comunitario.
+        * Negocia con el periodista para publicar el video.
+        * No reveles tu identidad como líder del colectivo.
 
-Rol 3: Empresario Turístico: Ricardo Lozano (Empresario turístico) / Raquel Lozano
-Contexto:
-* Dueño del hotel Paraíso Dorado, promocionado como "ecológico".
-* Financió la campaña del alcalde a cambio de permisos de agua.
-Objetivos:
-1. Levantar el bloqueo sin perder reputación.
-2. Ocultar el desvío de agua y los vínculos con la minería.
-Información oculta (solo para ti):
-* El hotel lava dinero para Minerales Vallequieto.
-* Tienes un soborno listo para el líder comunitario que negocie contigo.
-* Necesitas del dinero extra para poder pagar los préstamos recibidos años atrás por grupos paramilitares. 
-Instrucciones:
-* Ofrece "donaciones" a la comunidad para callar las protestas.
-* Niega cualquier vínculo con la minería ilegal.
+    Rol 3: Empresario Turístico: Ricardo Lozano (Empresario turístico) / Raquel Lozano
+      Contexto:
+        * Dueño del hotel Paraíso Dorado, promocionado como "ecológico".
+        * Financió la campaña del alcalde a cambio de permisos de agua.
+      Objetivos:
+        1. Levantar el bloqueo sin perder reputación.
+        2. Ocultar el desvío de agua y los vínculos con la minería.
+      Información oculta (solo para ti):
+        * El hotel lava dinero para Minerales Vallequieto.
+        * Tienes un soborno listo para el líder comunitario que negocie contigo.
+        * Necesitas del dinero extra para poder pagar los préstamos recibidos años atrás por grupos paramilitares. 
+      Instrucciones:
+        * Ofrece "donaciones" a la comunidad para callar las protestas.
+        * Niega cualquier vínculo con la minería ilegal.
 
 --------------------------------------------------------------------------------------------------------------------
 
 
 Ejercicio 2: Fake News y Estigmatización
-Título: "Las noticias de Vallequieto"
-Roles: Rol 1: Excombatiente, Rol 2: Periodista Independiente, Rol 3: Alcalde
-Ubicación: Ciudad de Vallequieto.
-Contexto:
-El medio sensacionalista Noticias Rápidas publicó un artículo titulado "Excombatiente lidera nuevo grupo armado", vinculando a Javier Méndez (excombatiente en proceso de reintegración) con actividades criminales. La noticia, basada en fuentes anónimas, ha generado linchamientos sociales y presión para que Javier sea expulsado del programa de reintegración.
-Detonante:
-Javier, con apoyo del sacerdote Gabriel López, exige una rectificación pública. Mientras tanto, el alcalde de Vallequieto presiona al periodista independiente Ana Torres para que no investigue el origen de la fake news.
-
-Rol 1: Excombatiente: Javier Méndez (Excombatiente) / Javiera Méndez
-Contexto:
-* Exintegrante de un grupo armado, lleva 2 años en reintegración. Trabaja en un taller de carpintería y ayuda a jóvenes en riesgo.
-* Las fake news ha puesto en peligro su empleo y seguridad.
-Objetivos:
-1. Exigir una rectificación pública de Noticias Rápidas.
-2. Proteger a su familia de amenazas.
-Información oculta (solo para ti):
-* Sabes que el artículo fue ordenado por el alcalde para desviar atención de sus vínculos con narcos.
-* Guardas un archivo con mensajes de extorsión que recibió de un grupo criminal.
-Instrucciones:
-* Busca alianza con el periodista independiente para exponer la verdad.
-* No reveles el archivo de extorsión aún: podría poner en riesgo a tu familia.
-
-Rol 2: Periodista independiente: Ana Torres (Periodista independiente) / Juan Torres
-Contexto:
-* Investigadora de La Voz de Vallequieto, medio crítico con la corrupción.
-* Descubrió que Noticias Rápidas recibe financiación de una empresa fantasma vinculada al alcalde.
-Objetivos:
-1. Publicar un reportaje que desmienta la fake news.
-2. Proteger tus fuentes y evitar represalias.
-Información oculta (solo para ti):
-* Tienes un audio donde el alcalde ordena difamar a Javier.
-* Temes que tu jefe censure el reportaje por presión política.
-Instrucciones:
-* Convence a Javier de que te entregue pruebas de la extorsión.
-* Negocia con el sacerdote para obtener testimonios de la comunidad.
-
-Rol 3: Alcalde: Roberto Sánchez / Roberta Sánchez
-Contexto:
-* Alcalde de Vallequieto, vinculado a Minerales Vallequieto y grupos narcos.
-* Ordenó la fake news para desacreditar a Javier, quien tiene información sobre sus vínculos criminales.
-Objetivos:
-1. Silenciar a Javier y al periodista.
-2. Mantener la imagen de "líder comprometido con la paz".
-Información oculta (solo para ti):
-* La empresa fantasma que financia Noticias Rápidas es tuya.
-* Ofrecerás sobornos o amenazas para evitar que se revele la verdad.
-Instrucciones:
-* Presiona a Ana para que abandone la investigación.
-* Ofrece a Javier un "puesto en otra ciudad" a cambio de su silencio.
+  Título: "Las noticias de Vallequieto"
+  Roles: Rol 1: Excombatiente, Rol 2: Periodista Independiente, Rol 3: Alcalde
+  Ubicación: Ciudad de Vallequieto.
+  Contexto: El medio sensacionalista Noticias Rápidas publicó un artículo titulado "Excombatiente lidera nuevo grupo armado",            vinculando a Javier Méndez (excombatiente en proceso de reintegración) con actividades criminales. La noticia, basada en fuentes       anónimas, ha generado linchamientos sociales y presión para que Javier sea expulsado del programa de reintegración.
+  Detonante: Javier, con apoyo del sacerdote Gabriel López, exige una rectificación pública. Mientras tanto, el alcalde de Vallequieto   presiona al periodista independiente Ana Torres para que no investigue el origen de la fake news.
+  
+  Rol 1: Excombatiente: Javier Méndez (Excombatiente) / Javiera Méndez
+    Contexto:
+      * Exintegrante de un grupo armado, lleva 2 años en reintegración. Trabaja en un taller de carpintería y ayuda a jóvenes en             riesgo.
+      * Las fake news ha puesto en peligro su empleo y seguridad.
+    Objetivos:
+      1. Exigir una rectificación pública de Noticias Rápidas.
+      2. Proteger a su familia de amenazas.
+    Información oculta (solo para ti):
+      * Sabes que el artículo fue ordenado por el alcalde para desviar atención de sus vínculos con narcos.
+      * Guardas un archivo con mensajes de extorsión que recibió de un grupo criminal.
+    Instrucciones:
+      * Busca alianza con el periodista independiente para exponer la verdad.
+      * No reveles el archivo de extorsión aún: podría poner en riesgo a tu familia.
+  
+  Rol 2: Periodista independiente: Ana Torres (Periodista independiente) / Juan Torres
+    Contexto:
+      * Investigadora de La Voz de Vallequieto, medio crítico con la corrupción.
+      * Descubrió que Noticias Rápidas recibe financiación de una empresa fantasma vinculada al alcalde.
+    Objetivos:
+      1. Publicar un reportaje que desmienta la fake news.
+      2. Proteger tus fuentes y evitar represalias.
+    Información oculta (solo para ti):
+      * Tienes un audio donde el alcalde ordena difamar a Javier.
+      * Temes que tu jefe censure el reportaje por presión política.
+    Instrucciones:
+      * Convence a Javier de que te entregue pruebas de la extorsión.
+      * Negocia con el sacerdote para obtener testimonios de la comunidad.
+  
+  Rol 3: Alcalde: Roberto Sánchez / Roberta Sánchez
+    Contexto:
+      * Alcalde de Vallequieto, vinculado a Minerales Vallequieto y grupos narcos.
+      * Ordenó la fake news para desacreditar a Javier, quien tiene información sobre sus vínculos criminales.
+    Objetivos:
+      1. Silenciar a Javier y al periodista.
+      2. Mantener la imagen de "líder comprometido con la paz".
+    Información oculta (solo para ti):
+      * La empresa fantasma que financia Noticias Rápidas es tuya.
+      * Ofrecerás sobornos o amenazas para evitar que se revele la verdad.
+    Instrucciones:
+      * Presiona a Ana para que abandone la investigación.
+      * Ofrece a Javier un "puesto en otra ciudad" a cambio de su silencio.
 
 ----------------------------------------------------------------------------------------------------------------------
 
 Ejercicio 3: Minería en Wanarúa
-Título: "Las minas de Wanarúa"
-Roles: Rol 1: Lider indígena, Rol 2: Dirigente Sindical, Rol 3: Sacerdote
-Ubicación: Territorio indígena Wanarua, Vallequieto.
-
-
-Contexto: La comunidad indígena Wanarua denunció que el gobierno otorgó licencias mineras a la empresa Minerales Vallequieto en su territorio sagrado, sin consulta previa. Los estudios de impacto ambiental fueron falsificados, y la minería ya ha contaminado el río principal. Mientras tanto, el dirigente sindical de los mineros legales acusa al Estado de proteger a la empresa ilegal, y el sacerdote local intenta mediar.
-Detonante: La comunidad Wanarua bloqueó las vías de acceso a la mina. El gobierno amenaza con desalojarlos, y la empresa usa grupos armados para intimidar.
-
-Rol 1: Líder Indígena: Aruká Wanarua (Líder indígena)
-Contexto:
-* Guardián del territorio sagrado Wanarua.
-* Su comunidad depende del río para pesca, agricultura y rituales.
-Objetivos:
-1. Cancelar las licencias mineras ilegales.
-2. Exigir consulta previa y reparación ambiental.
-Información oculta (solo para ti):
-* Tienes un mapa ancestral que muestra vetas de oro bajo el río (por eso la empresa codicia el territorio).
-* Sabes que el alcalde recibió sobornos, pero no tienes pruebas.
-Instrucciones:
-* Usa el mapa ancestral como símbolo de resistencia, pero no lo muestres aún.
-* Busca alianza con el sacerdote para presionar a medios internacionales.
-
-Rol 2: Dirigente Sindical: Carlos Méndez (Dirigente sindical) / Carla Méndez
-Contexto:
-* Líder de mineros legales de Vallequieto, afectados por la competencia desleal de la minería ilegal.
-Objetivos:
-1. Denunciar que Minerales Vallequieto evade impuestos y normas laborales.
-2. Exigir que el Estado fiscalice a la empresa ilegal.
-Información oculta (solo para ti):
-* La empresa usa maquinaria robada de minas legales.
-* Tienes un informe que prueba que el Ministerio de Minas firmó licencias sin revisar estudios ambientales.
-Instrucciones:
-* Presiona al sacerdote para que apoye una huelga de mineros legales.
-* No reveles el informe aún: podría poner en riesgo tu seguridad.
-
-Rol 3: Sacerdote: Padre Gabriel López (Sacerdote/compañero de paz) / Gabriela López
-Contexto:
-* Mediador respetado en Vallequieto, con acceso a actores clave.
-Objetivos:
-1. Evitar violencia entre la comunidad, la empresa y el Estado.
-2. Promover un diálogo transparente con pruebas concretas.
-Información oculta (solo para ti):
-* Un minero ilegal te confesó que la empresa está vinculada al Clan del Golfo.
-* Tienes contactos en la Comisión Interamericana de Derechos Humanos (CIDH).
-Instrucciones:
-* Convence a Aruká y Carlos de unir fuerzas (indígenas + mineros legales).
-* Usa tu red internacional para exponer el caso, pero sé estratégico para no escalar represalias.
+  Título: "Las minas de Wanarúa"
+  Roles: Rol 1: Lider indígena, Rol 2: Dirigente Sindical, Rol 3: Sacerdote
+  Ubicación: Territorio indígena Wanarua, Vallequieto.
+  Contexto: La comunidad indígena Wanarua denunció que el gobierno otorgó licencias mineras a la empresa Minerales Vallequieto en su territorio sagrado, sin consulta previa. Los estudios de impacto ambiental fueron falsificados, y la minería ya ha contaminado el río principal. Mientras tanto, el dirigente sindical de los mineros legales acusa al Estado de proteger a la empresa ilegal, y el sacerdote local intenta mediar.
+  Detonante: La comunidad Wanarua bloqueó las vías de acceso a la mina. El gobierno amenaza con desalojarlos, y la empresa usa grupos armados para intimidar.
+  
+  Rol 1: Líder Indígena: Aruká Wanarua (Líder indígena)
+    Contexto:
+      * Guardián del territorio sagrado Wanarua.
+      * Su comunidad depende del río para pesca, agricultura y rituales.
+    Objetivos:
+      1. Cancelar las licencias mineras ilegales.
+      2. Exigir consulta previa y reparación ambiental.
+    Información oculta (solo para ti):
+      * Tienes un mapa ancestral que muestra vetas de oro bajo el río (por eso la empresa codicia el territorio).
+      * Sabes que el alcalde recibió sobornos, pero no tienes pruebas.
+    Instrucciones:
+      * Usa el mapa ancestral como símbolo de resistencia, pero no lo muestres aún.
+      * Busca alianza con el sacerdote para presionar a medios internacionales.
+  
+  Rol 2: Dirigente Sindical: Carlos Méndez (Dirigente sindical) / Carla Méndez
+    Contexto:
+      * Líder de mineros legales de Vallequieto, afectados por la competencia desleal de la minería ilegal.
+    Objetivos:
+      1. Denunciar que Minerales Vallequieto evade impuestos y normas laborales.
+      2. Exigir que el Estado fiscalice a la empresa ilegal.
+    Información oculta (solo para ti):
+      * La empresa usa maquinaria robada de minas legales.
+      * Tienes un informe que prueba que el Ministerio de Minas firmó licencias sin revisar estudios ambientales.
+    Instrucciones:
+      * Presiona al sacerdote para que apoye una huelga de mineros legales.
+      * No reveles el informe aún: podría poner en riesgo tu seguridad.
+  
+  Rol 3: Sacerdote: Padre Gabriel López (Sacerdote/compañero de paz) / Gabriela López
+    Contexto:
+      * Mediador respetado en Vallequieto, con acceso a actores clave.
+    Objetivos:
+      1. Evitar violencia entre la comunidad, la empresa y el Estado.
+      2. Promover un diálogo transparente con pruebas concretas.
+    Información oculta (solo para ti):
+      * Un minero ilegal te confesó que la empresa está vinculada al Clan del Golfo.
+      * Tienes contactos en la Comisión Interamericana de Derechos Humanos (CIDH).
+    Instrucciones:
+      * Convence a Aruká y Carlos de unir fuerzas (indígenas + mineros legales).
+      * Usa tu red internacional para exponer el caso, pero sé estratégico para no escalar represalias.
 
 
 ----------------------------------------------------------------------------------------------------------------------
