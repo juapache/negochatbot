@@ -21,10 +21,6 @@ El barrio, habitado por familias desplazadas por la violencia, sufre escasez de 
 Detonante:
 Hoy, la comunidad ha bloqueado la entrada al hotel exigiendo acceso al agua. La tensión está al límite, y medios locales han llegado a cubrir la protesta.
 
-
-
-Mario Sánchez
-María Sánchez
 Rol 1: María Sánchez (Madre desplazada) / Mario Sánchez (Padre desplazado)
 Contexto:
 * Llegó a Vallequieto hace 3 años tras ser desplazada de su finca por un grupo armado.
@@ -56,9 +52,6 @@ Instrucciones:
 * Aliado con María/Mario para ganar apoyo comunitario.
 * Negocia con el periodista para publicar el video.
 * No reveles tu identidad como líder del colectivo.
-
-Ricardo Lozano
-Rachel Lozano
 
 Rol 3: Ricardo Lozano (Empresario turístico) / Raquel Lozano
 Contexto:
