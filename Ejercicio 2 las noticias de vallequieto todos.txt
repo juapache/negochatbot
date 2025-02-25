@@ -1,96 +1,63 @@
 
-
-
-
-
-
-
-
-
-
-
-
-Ejercicio 2: Fake News y Estigmatización
+Ejercicio 2: Fake News y EstigmatizaciÃ³n
 Temas abordados: Medios y conflicto, Justicia transicional, Paz y crimen organizado.
-Duración: 40 minutos.
-Objetivo: Analizar el impacto de la desinformación en la construcción de paz y diseñar estrategias para contrarrestar narrativas dañinas.
-
-o Preguntas guía:
-* ¿Cómo afectan las fake news a los procesos de reintegración y paz?
-* ¿Qué responsabilidad tienen los medios y el Estado en la justicia transicional?
-* ¿Cómo se vinculan las narrativas mediáticas con el crimen organizado?
-
-
+DuraciÃ³n: 40 minutos.
+Objetivo: Analizar el impacto de la desinformaciÃ³n en la construcciÃ³n de paz y diseÃ±ar estrategias para contrarrestar narrativas daÃ±inas.
 
 Ejercicio 2: Las noticias de Vallequieto
-Ubicación: Ciudad de Vallequieto.
+UbicaciÃ³n: Ciudad de Vallequieto.
 Contexto:
-El medio sensacionalista Noticias Rápidas publicó un artículo titulado "Excombatiente lidera nuevo grupo armado", vinculando a Javier Méndez (excombatiente en proceso de reintegración) con actividades criminales. La noticia, basada en fuentes anónimas, ha generado linchamientos sociales y presión para que Javier sea expulsado del programa de reintegración.Detonante:
-Javier, con apoyo del sacerdote Gabriel López, exige una rectificación pública. Mientras tanto, el alcalde de Vallequieto presiona al periodista independiente Ana Torres para que no investigue el origen de la fake news.
-Javier MéndezJaviera Méndez
-Rol 1: Javier Méndez (Excombatiente) / Javiera Méndez
+El medio sensacionalista Noticias RÃ¡pidas publicÃ³ un artÃ­culo titulado "Excombatiente lidera nuevo grupo armado", vinculando a Javier MÃ©ndez (excombatiente en proceso de reintegraciÃ³n) con actividades criminales. La noticia, basada en fuentes anÃ³nimas, ha generado linchamientos sociales y presiÃ³n para que Javier sea expulsado del programa de reintegraciÃ³n.
+Detonante:
+Javier, con apoyo del sacerdote Gabriel LÃ³pez, exige una rectificaciÃ³n pÃºblica. Mientras tanto, el alcalde de Vallequieto presiona al periodista independiente Ana Torres para que no investigue el origen de la fake news.
+
+Rol 1: Javier MÃ©ndez (Excombatiente) / Javiera MÃ©ndez
 Contexto:
-* Exintegrante de un grupo armado, lleva 2 años en reintegración. Trabaja en un taller de carpintería y ayuda a jóvenes en riesgo.
+* Exintegrante de un grupo armado, lleva 2 aÃ±os en reintegraciÃ³n. Trabaja en un taller de carpinterÃ­a y ayuda a jÃ³venes en riesgo.
 * Las fake news ha puesto en peligro su empleo y seguridad.
 Objetivos:
-1. Exigir una rectificación pública de Noticias Rápidas.
+1. Exigir una rectificaciÃ³n pÃºblica de Noticias RÃ¡pidas.
 2. Proteger a su familia de amenazas.
-Información oculta (solo para ti):
-* Sabes que el artículo fue ordenado por el alcalde para desviar atención de sus vínculos con narcos.
-* Guardas un archivo con mensajes de extorsión que recibió de un grupo criminal.
+InformaciÃ³n oculta (solo para ti):
+* Sabes que el artÃ­culo fue ordenado por el alcalde para desviar atenciÃ³n de sus vÃ­nculos con narcos.
+* Guardas un archivo con mensajes de extorsiÃ³n que recibiÃ³ de un grupo criminal.
 Instrucciones:
 * Busca alianza con el periodista independiente para exponer la verdad.
-* No reveles el archivo de extorsión aún: podría poner en riesgo a tu familia.
+* No reveles el archivo de extorsiÃ³n aÃºn: podrÃ­a poner en riesgo a tu familia.
 
-Ana TorresJuan Torres
 Rol 2: Ana Torres (Periodista independiente) / Juan Torres
 Contexto:
-* Investigadora de La Voz de Vallequieto, medio crítico con la corrupción.
-* Descubrió que Noticias Rápidas recibe financiación de una empresa fantasma vinculada al alcalde.
+* Investigadora de La Voz de Vallequieto, medio crÃ­tico con la corrupciÃ³n.
+* DescubriÃ³ que Noticias RÃ¡pidas recibe financiaciÃ³n de una empresa fantasma vinculada al alcalde.
 Objetivos:
 1. Publicar un reportaje que desmienta la fake news.
 2. Proteger tus fuentes y evitar represalias.
-Información oculta (solo para ti):
+InformaciÃ³n oculta (solo para ti):
 * Tienes un audio donde el alcalde ordena difamar a Javier.
-* Temes que tu jefe censure el reportaje por presión política.
+* Temes que tu jefe censure el reportaje por presiÃ³n polÃ­tica.
 Instrucciones:
-* Convence a Javier de que te entregue pruebas de la extorsión.
+* Convence a Javier de que te entregue pruebas de la extorsiÃ³n.
 * Negocia con el sacerdote para obtener testimonios de la comunidad.
 
-Roberto SánchezRoberta Sánchez
-Rol 3: Alcalde Roberto Sánchez / Roberta Sánchez
+Rol 3: Alcalde Roberto SÃ¡nchez / Roberta SÃ¡nchez
 Contexto:
 * Alcalde de Vallequieto, vinculado a Minerales Vallequieto y grupos narcos.
-* Ordenó la fake news para desacreditar a Javier, quien tiene información sobre sus vínculos criminales.
+* OrdenÃ³ la fake news para desacreditar a Javier, quien tiene informaciÃ³n sobre sus vÃ­nculos criminales.
 Objetivos:
 1. Silenciar a Javier y al periodista.
-2. Mantener la imagen de "líder comprometido con la paz".
-Información oculta (solo para ti):
-* La empresa fantasma que financia Noticias Rápidas es tuya.
-* Ofrecerás sobornos o amenazas para evitar que se revele la verdad.
+2. Mantener la imagen de "lÃ­der comprometido con la paz".
+InformaciÃ³n oculta (solo para ti):
+* La empresa fantasma que financia Noticias RÃ¡pidas es tuya.
+* OfrecerÃ¡s sobornos o amenazas para evitar que se revele la verdad.
 Instrucciones:
-* Presiona a Ana para que abandone la investigación.
+* Presiona a Ana para que abandone la investigaciÃ³n.
 * Ofrece a Javier un "puesto en otra ciudad" a cambio de su silencio.
 
-Guía para el Facilitador
-Pasos:
-2. Introducción (5 mins):
-o Presentar el escenario general y entregar roles.
-o Leer en voz alta el artículo difamatorio.
-3. Desarrollo (25 mins):
-o Fase 1 (10 mins): Los estudiantes en rol debaten entre sí (Javier y Ana vs. Alcalde).
-o Fase 2 (15 mins): Diseñan una estrategia para combatir la desinformación (ej: rueda de prensa, informe investigativo, campaña en redes).
-4. Debriefing (10 mins):
-o Preguntas guía:
-* ¿Cómo afectan las fake news a los procesos de reintegración y paz?
-* ¿Qué responsabilidad tienen los medios y el Estado en la justicia transicional?
-* ¿Cómo se vinculan las narrativas mediáticas con el crimen organizado?
-
-Conexión con el Macroconflicto
-* El alcalde usa Noticias Rápidas para proteger sus vínculos con Minerales Vallequieto (empresa minera del Ejercicio 1).
-* La extorsión que sufre Javier está ligada al mismo grupo armado que opera en la finca bananera (Ejercicio 5).
+ConexiÃ³n con el Macroconflicto
+* El alcalde usa Noticias RÃ¡pidas para proteger sus vÃ­nculos con Minerales Vallequieto (empresa minera del Ejercicio 1).
+* La extorsiÃ³n que sufre Javier estÃ¡ ligada al mismo grupo armado que opera en la finca bananera (Ejercicio 5).
 
 Resultados Esperados
 * Los estudiantes analizan el poder de los medios para escalar o resolver conflictos.
-* Identifican cómo la desinformación se usa como herramienta de control político y criminal.
+* Identifican cÃ³mo la desinformaciÃ³n se usa como herramienta de control polÃ­tico y criminal.
 
